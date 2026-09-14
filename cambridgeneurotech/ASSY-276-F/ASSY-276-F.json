@@ -1,6 +1,6 @@
 {
     "specification": "probeinterface",
-    "version": "0.3.2",
+    "version": "0.4.0",
     "probes": [
         {
             "ndim": 2,
@@ -1497,5 +1497,8 @@
                 "2"
             ]
         }
+    ],
+    "probe_ids": [
+        "0"
     ]
 }
